@@ -1,0 +1,10 @@
+
+My first program in java to print hello world
+
+class Demo
+{
+	public static void main(String[] args)
+	{
+		System.out.print("Hello World");	
+	}
+}
